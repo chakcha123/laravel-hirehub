@@ -1,3 +1,7 @@
+![Screenshot from 2024-06-01 06-43-33](https://github.com/chakcha123/laravel-hirehub/assets/124500046/ce0b4c60-9552-47d4-a214-e31b705ca299)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
